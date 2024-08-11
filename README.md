@@ -44,7 +44,7 @@ The extracted data is saved into a CSV file for further analysis or use.
    python main.py
    ```
 
-3. The script will automatically navigate the website, extract product data, and save it to `output.csv`.
+3. The script will automatically navigate the website, extract product data, and save it to `products.csv`.
 
 ### Contributing
 Feel free to fork the project and submit pull requests. Any contributions, whether it's fixing bugs, improving documentation, or adding new features, are welcome!
