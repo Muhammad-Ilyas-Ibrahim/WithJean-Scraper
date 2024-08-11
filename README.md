@@ -26,8 +26,8 @@ The extracted data is saved into a CSV file for further analysis or use.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Muhammad-Ilyas-Ibrahim/WithJean-Scraper.git
+   cd WithJean-Scraper
    ```
 
 2. Install the required Python packages:
